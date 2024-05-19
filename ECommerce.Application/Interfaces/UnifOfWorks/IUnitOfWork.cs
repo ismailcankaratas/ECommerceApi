@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECommerce.Persistence.UnifOfWorks
+namespace ECommerce.Application.Interfaces.UnifOfWorks
 {
     public interface IUnitOfWork : IAsyncDisposable
     {

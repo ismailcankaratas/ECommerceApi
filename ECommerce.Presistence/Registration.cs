@@ -1,7 +1,7 @@
 ﻿using ECommerce.Application.Interfaces.Repositories;
+using ECommerce.Application.Interfaces.UnifOfWorks;
 using ECommerce.Persistence.Context;
 using ECommerce.Persistence.Repositories;
-using ECommerce.Persistence.UnifOfWorks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
